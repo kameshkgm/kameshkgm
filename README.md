@@ -1,7 +1,7 @@
 # Hi there, I'm Kamesh! 👋
 
 ## About Me
-- 🔭 I’m currently working on "Online GDB Clone"
+- 🔭 I’m currently working on "Electronic components predicting ML model"
 - 🌱 I’m currently learning fullstack
 - 🤔 I’m looking for help with app development
 - 📫 How to reach me: [e-mail](mailto:kameshs033@gmail.com)
